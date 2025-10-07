@@ -1,2 +1,2 @@
 # git_test
-proyecto de pruba durante el estudio The Odin Proyect
+proyecto de pruba mientras estudio The Odin Proyect
